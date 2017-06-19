@@ -1,2 +1,2 @@
 # WLSTScripts
-Repo to maintain my day to day WLST Scripts
+Repo to maintain weblogic Administration WLST Scripts
